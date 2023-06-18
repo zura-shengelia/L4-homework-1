@@ -1,0 +1,66 @@
+body {
+    background-color: #f0f2f5;
+}
+
+.login-card-conteiner {
+    width: 400px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 7px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -200px;
+    margin-top: -200px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.form-input {
+    border-style: solid;
+    border-color: rgb(227, 219, 219);
+    color: rgb(200, 195, 195);
+    border-radius: 7px;
+    display: block;
+    padding: 16px;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.log-in-button {
+    width: 100%;
+    background-color: #1877f2;
+    color: white;
+    font-size: 15px;
+    font-weight: bolder;
+    border: 0;
+    border-radius: 7px;
+    margin-bottom: 20px;
+    padding: 16px;
+    box-sizing: border-box;
+}
+
+.password-link {
+    display: inline-block;
+    color: #1877f2;
+    text-decoration: none;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.card-form {
+    border-bottom-style: solid;
+    border-color: rgb(200, 195, 195);
+    margin-bottom: 20px;
+}
+
+.create-account-link {
+    background-color: #42b72a;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 7px;
+    display: inline-block;
+}
